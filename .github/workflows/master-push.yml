@@ -28,4 +28,4 @@ jobs:
             curl -X POST https://api.github.com/repos/deepakjotwani/receiver/dispatches \
             -H 'Accept: application/json' \
             -u ${{ secrets.ACCESS_TOKEN }} \
-            --data '{"event_type": "sample2_latestTag", "client_payload": { "sample2_latestTag": "'${GITHUB_SHA::7}'" }}'
+            --data '{"event_type": "sample2", "client_payload": { "sample2_latestTag": "'${GITHUB_SHA::7}'" }}'
