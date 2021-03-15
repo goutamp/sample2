@@ -21,4 +21,4 @@ jobs:
         docker build . -t ${{ env.CONTAINER_IMAGE }}:0.3
 
     - name: Publish docker image to dockerhub
-      run: docker push ${{ env.CONTAINER_IMAGE }}:0.2
+      run: docker push ${{ env.CONTAINER_IMAGE }}:0.3
