@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.5](https://www.github.com/goutamp/sample2/compare/v1.0.4...v1.0.5) (2021-05-15)
+
+
+### Bug Fixes
+
+* code fix ([b497a5c](https://www.github.com/goutamp/sample2/commit/b497a5c929d30a585ea232c76b69533e1689af80))
+* sha fixing ([2ec7296](https://www.github.com/goutamp/sample2/commit/2ec7296fbbf756ff4c8aded984ed8202803f9ee6))
+
 ### [1.0.4](https://www.github.com/goutamp/sample2/compare/v1.0.3...v1.0.4) (2021-05-15)
 
 
