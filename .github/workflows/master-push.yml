@@ -36,7 +36,7 @@ jobs:
       - name: Build and tag docker image
         if: ${{ steps.release.outputs.release_created }}
         run: |
-         docker build . -t ${{ env.CONTAINER_IMAGE }}:${{ steps.version_tag.outputs.version_tag }}"
+         docker build . -t "${{ env.CONTAINER_IMAGE }}:${{ steps.version_tag.outputs.version_tag }}"
 
       - name: Publish docker image to dockerhub
         if: ${{ steps.release.outputs.release_created }}
