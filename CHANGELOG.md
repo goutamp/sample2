@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/goutamp/sample2/compare/v1.0.0...v1.0.1) (2021-05-15)
+
+
+### Bug Fixes
+
+* This is test message ([021cb40](https://www.github.com/goutamp/sample2/commit/021cb40622523279b9ce1129dfbf7020e814c46f))
+
 ## 1.0.0 (2021-05-15)
 
 
