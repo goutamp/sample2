@@ -16,6 +16,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           release-type: simple
           package-name: sample2
+          command: github-release
           
       - name: Checkout code
         if: ${{ steps.release.outputs.release_created }}
