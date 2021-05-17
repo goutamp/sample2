@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.1.2](https://www.github.com/goutamp/sample2/compare/v1.1.1...v1.1.2) (2021-05-17)
+
+
+### Bug Fixes
+
+* master ([726101c](https://www.github.com/goutamp/sample2/commit/726101c8bda713de46acc52fc499ce061445fbb0))
+* This is feature branch ([6fd11a6](https://www.github.com/goutamp/sample2/commit/6fd11a690326f6ba29c9bb629818336a55f1a891))
+* this is fixed ([e49bb32](https://www.github.com/goutamp/sample2/commit/e49bb32582a615b89c5958a2026ee1345eab7ed3))
+
 ### [1.1.1](https://www.github.com/goutamp/sample2/compare/v1.1.0...v1.1.1) (2021-05-17)
 
 
