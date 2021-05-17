@@ -14,7 +14,6 @@ jobs:
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          bump-minor-pre-major: true
           release-type: simple
           package-name: sample2
           
