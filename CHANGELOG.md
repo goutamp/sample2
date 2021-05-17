@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/goutamp/sample2/compare/v1.0.7...v1.1.0) (2021-05-17)
+
+
+### Features
+
+* This is minor changes ([926498e](https://www.github.com/goutamp/sample2/commit/926498e189fcc473859d564e06ef7495595b76f5))
+
 ### [1.0.7](https://www.github.com/goutamp/sample2/compare/v1.0.6...v1.0.7) (2021-05-17)
 
 
