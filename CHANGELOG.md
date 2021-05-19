@@ -1,5 +1,14 @@
 # Changelog
 
+### [1.2.2](https://www.github.com/goutamp/sample2/compare/v1.2.1...v1.2.2) (2021-05-19)
+
+
+### Bug Fixes
+
+* remove trivy ([30cf2db](https://www.github.com/goutamp/sample2/commit/30cf2db67454b7d8e00e5f142618f6ab4c56890f))
+* trivy update ([df0c900](https://www.github.com/goutamp/sample2/commit/df0c900121f45df6a205851e0e603b4e3ebfd5e0))
+* trivy update ([9543876](https://www.github.com/goutamp/sample2/commit/95438761343991e1f25826964581173376e2e75f))
+
 ### [1.2.1](https://www.github.com/goutamp/sample2/compare/v1.2.0...v1.2.1) (2021-05-19)
 
 
